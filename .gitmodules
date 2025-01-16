@@ -1,0 +1,21 @@
+[submodule "User"]
+	path = User
+	url = git@github.com:Caraval27/CM1007-Microservice-User.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Caraval27/CM1007-Frontend.git
+[submodule "Health"]
+	path = Health
+	url = git@github.com:Caraval27/CM1007-Microservice-Health.git
+[submodule "Search"]
+	path = Search
+	url = git@github.com:Caraval27/CM1007-Microservice-Search.git
+[submodule "Message"]
+	path = Message
+	url = git@github.com:Caraval27/CM1007-Microservice-Message.git
+[submodule "Image"]
+	path = Image
+	url = git@github.com:Caraval27/CM1007-Microservice-Image.git
+[submodule "Database"]
+	path = Database
+	url = git@github.com:Caraval27/CM1007-Database.git
