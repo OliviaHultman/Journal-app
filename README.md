@@ -1,6 +1,6 @@
 # Patient Journal Project
 
-This project is a web-based **Patient Journal** system developed as part of the course **FullStack-utveckling och DevOps** during the third year of my Bachelor's in Computer Engineering at KTH. The system is built over three labs, with each lab expanding the functionality. It integrates with **HAPI FHIR** as the medical database and uses modern Full Stack and DevOps practices.
+This project is a web-based **Patient Journal** system developed as part of the course **FullStack Development and DevOps** during the third year of my Bachelor's in Computer Engineering at KTH. The system is built over three labs, with each lab expanding the functionality. It integrates with **HAPI FHIR** as the medical database and uses modern Full Stack and DevOps practices.
 
 ## Features
 - Patient data management (observations, conditions, encounter, patient and practitioner information, and messages).
