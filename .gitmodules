@@ -1,0 +1,21 @@
+[submodule "CM1007-Microservice-Health"]
+	path = CM1007-Microservice-Health
+	url = https://github.com/OliviaHultman/Journal-health.git
+[submodule "CM1007-Frontend"]
+	path = CM1007-Frontend
+	url = https://github.com/OliviaHultman/Journal-frontend.git
+[submodule "CM1007-Microservice-Image"]
+	path = CM1007-Microservice-Image
+	url = https://github.com/OliviaHultman/Journal-image.git
+[submodule "CM1007-Microservice-Message"]
+	path = CM1007-Microservice-Message
+	url = https://github.com/OliviaHultman/Journal-message.git
+[submodule "CM1007-Microservice-User"]
+	path = CM1007-Microservice-User
+	url = https://github.com/OliviaHultman/Journal-user.git
+[submodule "CM1007-Microservice-Search"]
+	path = CM1007-Microservice-Search
+	url = https://github.com/OliviaHultman/Journal-search.git
+[submodule "CM1007-Database"]
+	path = CM1007-Database
+	url = https://github.com/OliviaHultman/Journal-database.git
