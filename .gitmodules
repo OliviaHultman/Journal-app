@@ -4,9 +4,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/OliviaHultman/Journal-frontend.git
-[submodule "Image"]
-	path = Image
-	url = https://github.com/OliviaHultman/Journal-image.git
 [submodule "Message"]
 	path = Message
 	url = https://github.com/OliviaHultman/Journal-message.git
