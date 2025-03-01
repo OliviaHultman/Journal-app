@@ -16,3 +16,6 @@
 [submodule "Database"]
 	path = Database
 	url = https://github.com/OliviaHultman/Journal-database.git
+[submodule "Image"]
+	path = Image
+	url = https://github.com/OliviaHultman/Journal-image.git
