@@ -9,7 +9,7 @@
 	url = https://github.com/OliviaHultman/Journal-image.git
 [submodule "Message"]
 	path = Message
-	url = https://github.com/Caraval27/CM1007-Microservice-Message.git
+	url = https://github.com/OliviaHultman/Journal-message.git
 [submodule "User"]
 	path = User
 	url = https://github.com/OliviaHultman/Journal-user.git
